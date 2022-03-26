@@ -39,7 +39,7 @@
     <hr class="featurette-divider">
     <div class="row featurette py-5 px-2">
         <div class="col-md-7">
-            <h2 class="featurette-heading"><span class="text-muted">| Câu chuyện cửa hàng nông sản Bảo Lâm 2</span></h2>
+            <h2 class="featurette-heading"><span class="text-muted">| Câu chuyện cửa hàng nông sản Bảo Lâm </span></h2>
             <p class="lead text-dark text-justify" style="font-size: 1.2rem;text-align:justify;">Nông sản Bảo Lâm hướng đến là thương hiệu cung cấp nông sản hữu cơ, tươi ngon và quà tặng nông sản chuyên nghiệp tại Việt Nam, phân phối nông sản Việt đặc sản an toàn từ khắp mọi vùng miền và nông sản nhập khẩu cao cấp. Sứ mệnh của chúng tôi là mang lại sức khoẻ, hạnh phúc của khách hàng qua những sản phẩm, dịch vụ tận tâm. Nông sản Bảo Lâm ra đời để khẳng định giá trị của các loại rau củ, trái cây chất lượng, cũng như sự phong phú, đa dạng về các mặt hàng tại nông sản Bảo Lâm.</p>
         </div>
         <div class="col-md-5">
